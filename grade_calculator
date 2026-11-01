@@ -1,4 +1,5 @@
-ar gradeFunction(double avg) {
+// Calculate Student Average
+char gradeFunction(double avg) {
   if (avg >= 90) return 'A';
   else if (avg >= 80) return 'B';
   else if (avg >= 70) return 'C';
@@ -38,4 +39,3 @@ int main(void) {
 
   return 0;
 }
-in this code i want to uploade in github how to uploade
